@@ -45,5 +45,5 @@ VPN — maps directly to one or more layers of this model.
 - Created this GitHub repository to document my cybersecurity learning journey
 
 ---
-*Day 1 — Started my cybersecurity learning journey*
+*learning journey*
 *Role: Technical Associate @ Intime Solutions, Bangalore*
